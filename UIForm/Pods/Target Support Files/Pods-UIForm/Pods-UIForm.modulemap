@@ -1,0 +1,6 @@
+framework module Pods_UIForm {
+  umbrella header "Pods-UIForm-umbrella.h"
+
+  export *
+  module * { export * }
+}

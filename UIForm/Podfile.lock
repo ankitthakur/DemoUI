@@ -1,0 +1,24 @@
+PODS:
+  - IQKeyboardManager (6.2.0)
+  - UIFloatLabelTextField (1.2.9)
+  - UIFloatLabelTextView (1.0.10)
+
+DEPENDENCIES:
+  - IQKeyboardManager
+  - UIFloatLabelTextField
+  - UIFloatLabelTextView
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - IQKeyboardManager
+    - UIFloatLabelTextField
+    - UIFloatLabelTextView
+
+SPEC CHECKSUMS:
+  IQKeyboardManager: 6194101620b73af5e67900b8f89707a99de0b804
+  UIFloatLabelTextField: c1df7d4e688a1bd52738513f961df16f94914367
+  UIFloatLabelTextView: 96b7c5a18739fd1af8fd9480f7943d75a7547e4d
+
+PODFILE CHECKSUM: 4900c442d976b572e9b479c353299b8c633573b9
+
+COCOAPODS: 1.5.3
